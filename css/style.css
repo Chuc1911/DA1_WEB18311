@@ -311,9 +311,9 @@ img {
 .desk-menu > ul > li {
   display: inline-block;
   height: 100%;
-  padding: 0;
+  padding: 5px;
   z-index: 5;
-  margin-right: 10px;
+  margin-right:50px;
 }
 .desk-menu > ul > li > a {
   position: relative;
